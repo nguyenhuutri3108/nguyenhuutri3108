@@ -5,9 +5,11 @@
 </p>
 
 <p align="center">
-  <a href="https://cv-lyart-chi.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_CV_Online-View-2563eb?style=for-the-badge&logoColor=white" alt="CV Online"></a>
-  <a href="https://www.linkedin.com/in/nguyenhuutri3108"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:nguyenhuutri3108@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  🌐 <a href="https://cv-lyart-chi.vercel.app/"><b>CV Online</b></a>
+  &nbsp;·&nbsp;
+  💼 <a href="https://www.linkedin.com/in/nguyenhuutri3108"><b>LinkedIn</b></a>
+  &nbsp;·&nbsp;
+  ✉️ <a href="mailto:nguyenhuutri3108@gmail.com"><b>Email</b></a>
 </p>
 
 <p align="center">📍 Tây Ninh, Vietnam &nbsp;·&nbsp; 🌏 Open to on-site · hybrid · remote</p>
