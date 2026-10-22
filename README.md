@@ -21,9 +21,9 @@
 I have prepared and checked import–export documents since 2017: sales contracts, commercial invoices, packing lists, bills of lading, certificates of origin, and L/C presentations under UCP 600. I work daily with forwarders, shipping lines, customs brokers and banks, and follow each order from confirmation to delivery and payment.
 
 - **Thép Tây Nam (steel), 10/2022 – 06/2026:** export documentation for 3 legal entities; 886 document sets in 2024; shipments to 36 countries.
-- **Yi Chao Vietnam (Taiwanese-invested, shoelaces and webbing), 09/2019 – 10/2022:** orders, shipping, customs files, import purchasing; supplier approval files for Nike and Adidas.
-- **Vina One Steel, 04/2017 – 08/2019:** export documents for steel pipes; L/C, T/T, D/A, D/P with banks.
-- **PVcomBank, 10/2011 – 12/2016:** corporate and retail credit appraisal.
+- **Yi Chao Vietnam (Taiwanese-invested, shoelaces and webbing), 08/2019 – 10/2022:** orders, shipping, customs files, import purchasing; supplier approval files for Nike and Adidas.
+- **Vina One Steel, 03/2017 – 08/2019:** export documents for steel pipes; L/C, T/T, D/A, D/P with banks.
+- **PVcomBank, 10/2011 – 10/2016:** corporate and retail credit appraisal.
 
 **Looking for:** Import–Export Documentation Officer · Order Follow-up · Export Sales Admin, near Bến Lức – Đức Hòa.
 
