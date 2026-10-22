@@ -72,7 +72,7 @@ Chuyên gia **Chứng từ Xuất nhập khẩu &amp; Trade Compliance** với *
 ![ERP Epicor](https://img.shields.io/badge/ERP-Epicor_Key_User-6f42c1?style=flat-square)
 ![HS Code](https://img.shields.io/badge/HS_Code-Steel_72xx-1f6feb?style=flat-square)
 
-**Languages · Ngoại ngữ:** Vietnamese (native) · English B1 (PET Cambridge) · Chinese HSK 2
+**Languages · Ngoại ngữ:** Vietnamese (native) · English B1 (PET Cambridge) · Chinese (basic, self-taught)
 
 ## 🌱 Currently Learning · Đang học
 
